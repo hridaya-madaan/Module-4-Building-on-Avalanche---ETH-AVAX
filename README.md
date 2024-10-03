@@ -23,7 +23,7 @@ This program serves as a simple and straightforward introduction to Solidity pro
 
 To run only solidity program, you can use Remix, an online Solidity IDE. To get started, go to the Remix website at https://remix.ethereum.org/.
 
-Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a.sol extension (e.g., Degen Token.sol). Copy and paste the following code into the file --> [FileLink](https://github.com/ArYaN14138/ETH-AVAX-PROOF-Intermediate-EVM-Course__Module4.git)
+Once you are on the Remix website, create a new file by clicking on the "+" icon in the left-hand sidebar. Save the file with a.sol extension (e.g., Degen Token.sol). Copy and paste the following code into the file --> [FileLink](https://github.com/hridaya14138/ETH-AVAX-PROOF-Intermediate-EVM-Course__Module4.git)
 
 To compile the code, click on the "Solidity Compiler" tab in the left-hand sidebar. Make sure the "Compiler" option is set to "0.8.26" (or another compatible version), and then click on the "Compile Degen Token.sol" button.
 
@@ -45,4 +45,6 @@ You will want to do the following steps to run the project :-
 8. Everything is Done , Our Project is completed.
 
 ## Project By
-- ARYAN VISHWAKARMA
+- hridaya madaan 
+phri2898@gmail.com
+
